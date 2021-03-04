@@ -988,6 +988,8 @@ def checkValue(n):
         print("It is an odd number")
         
 checkValue(7)
+```
+</details>
 
 ### Question 33
 Define a function which can print a dictionary where the keys are numbers between 1 and 3 (both included) and the values are square of keys.
@@ -1000,7 +1002,7 @@ Use ** operator to get power of a number.
 <details>
   <summary>Solution:</summary>
 
-```
+```py
 def printDict():
     d=dict()
     d[1]=1
@@ -1010,6 +1012,7 @@ def printDict():
         
 printDict()
 ```
+</details>
 
 ### Question 34
 Define a function which can print a dictionary where the keys are numbers between 1 and 20 (both included) and the values are square of keys.
